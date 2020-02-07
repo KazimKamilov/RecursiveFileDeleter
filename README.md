@@ -15,7 +15,7 @@ substring in the root folder and subfolders.
 # License?
 The program is distributed under the ZLIB license.
 
-#============================================
+#============================================\n
 I hope this program will help someone.
 Good luck and have a good day.
-#============================================
+#============================================\n
