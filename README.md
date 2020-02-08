@@ -6,6 +6,17 @@ Program search and delete files by substring.
 The program searches for and deletes files by the specified 
 substring in the root folder and subfolders.
 
+Just place the application in the desired directory, launch it, enter the desired substring to search for, then the program will find and delete files with the found substring in the name.
+
+For example, if you enter "_.txt" as a substring, and the folder will contain files:
+
+test.txt
+test_.txt
+another.txt
+
+In this case the program will delete only the file:
+
+test_.txt
 
 # Something else?
 * Be careful - the program will delete all files that have a substring in their name.
