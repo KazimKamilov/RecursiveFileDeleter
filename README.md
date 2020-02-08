@@ -19,7 +19,7 @@ In this case the program will delete only the file:
 - test_.txt
 
 # Something else?
-* Be careful - the program will delete all files that have a substring in their name.
+* Be careful - the program will delete all files that have a substring in their name. Use this program at your own risk!
 * You need C++17 compiler to build this program. Well, or you can change std::filesystem to std::experemental::filesystem
 
 
